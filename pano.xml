@@ -76,6 +76,7 @@
       <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1"/>
       <hotspot target="" skinid="ht_node" title="거실1300" id="Point01" description="" tilt="-41.06" url="{node2}" pan="-17.43"/>
       <hotspot target="" skinid="ht_node" title="거실1200" id="Point02" description="" tilt="-34.69" url="{node4}" pan="-331.45"/>
+      <hotspot target="" skinid="ht_node" title="주방1400" id="Point03" description="" tilt="-19.67" url="{node11}" pan="-178.95"/>
     </hotspots>
     <media/>
     <transition zoomafterinfov="140" zoomoutpause="1" softedge="0" blendcolor="0x000000" delay="none" zoomfov="40" enabled="1" blendtime="1" zoomafteroutfov="40" zoomin="0" zoomout="0" zoomspeed="2" type="crossdissolve"/>
@@ -290,6 +291,8 @@
       <hotspot target="" skinid="ht_node" title="주방1200" id="Point01" description="" tilt="-41.44" url="{node9}" pan="-139.4"/>
       <hotspot target="" skinid="ht_node" title="주방1300" id="Point02" description="" tilt="-51.33" url="{node10}" pan="-164.31"/>
       <hotspot target="" skinid="ht_node" title="주방1400" id="Point03" description="" tilt="-54.68" url="{node11}" pan="-187.75"/>
+      <hotspot target="" skinid="ht_node" title="거실1200" id="Point04" description="" tilt="-6.52" url="{node4}" pan="-127.89"/>
+      <hotspot target="" skinid="ht_node" title="욕실1200" id="Point05" description="" tilt="-22.59" url="{node5}" pan="-186.89"/>
     </hotspots>
     <media/>
     <transition zoomafterinfov="140" zoomoutpause="1" softedge="0" blendcolor="0x000000" delay="none" zoomfov="40" enabled="1" blendtime="1" zoomafteroutfov="40" zoomin="0" zoomout="0" zoomspeed="2" type="crossdissolve"/>
