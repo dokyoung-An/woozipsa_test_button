@@ -24,6 +24,7 @@
       <hotspot target="_blank" skinid="집꾸미기버튼-돋보기배경" title="" id="Point05" description="" tilt="38.7" url="" pan="-307.23"/>
       <hotspot target="_blank" skinid="집꾸미기버튼-돋보기만" title="" id="Point06" description="" tilt="9.98" url="" pan="-330.47"/>
       <hotspot target="_blank" skinid="집꾸미기버튼-테그만" title="" id="Point07" description="" tilt="16.13" url="" pan="-83.09"/>
+      <hotspot target="_blank" skinid="집꾸미기버튼-하얀색" title="" id="Point08" description="" tilt="4.46" url="" pan="-47.28"/>
     </hotspots>
     <media/>
     <transition zoomafterinfov="140" zoomoutpause="1" softedge="0" blendcolor="0x000000" delay="none" zoomfov="40" enabled="1" blendtime="1" zoomafteroutfov="40" zoomin="0" zoomout="0" zoomspeed="2" type="crossdissolve"/>
