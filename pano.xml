@@ -21,6 +21,7 @@
       <hotspot target="" skinid="ht_node" title="거실1300" id="Point02" description="" tilt="-41.11" url="{node2}" pan="-355.27"/>
       <hotspot target="" skinid="ht_node" title="주방1200" id="Point03" description="" tilt="-26.68" url="{node9}" pan="-192.26"/>
       <hotspot target="_blank" skinid="집꾸미기버튼-에어컨" title="" id="Point04" description="" tilt="37.21" url="" pan="-22.21"/>
+      <hotspot target="_blank" skinid="집꾸미기버튼-에어컨_1" title="" id="Point05" description="" tilt="30.08" url="" pan="-61.19"/>
     </hotspots>
     <media/>
     <transition zoomafterinfov="140" zoomoutpause="1" softedge="0" blendcolor="0x000000" delay="none" zoomfov="40" enabled="1" blendtime="1" zoomafteroutfov="40" zoomin="0" zoomout="0" zoomspeed="2" type="crossdissolve"/>
